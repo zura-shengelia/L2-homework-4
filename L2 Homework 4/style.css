@@ -1,0 +1,27 @@
+.box {
+    width: 300px;
+    height: 350px;
+    background-color: rgb(239, 238, 238);
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.box img {
+    width: 100px;
+    height: 100px;
+}
+
+.box p {
+    font-size: 12px;
+}
+
+.box button {
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 20px;
+    font-size: 10px;
+}
